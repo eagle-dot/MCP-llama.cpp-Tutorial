@@ -5,6 +5,27 @@ Build a fully local AI agent using:
   Python  
 No OpenAI API key. No cloud inference. Everything runs locally.
 
+
+What You'll Learn
+
+This project demonstrates how to:
+
+Run an LLM locally using llama.cpp
+Host the model using llama-server.exe
+Call the model through the OpenAI-compatible REST API
+Build an MCP server that exposes tools
+Build an MCP host that lets the LLM invoke those tools
+Understand the complete tool-calling workflow
+
+Repository Structure
+mcp-llama-demo/
+│
+├── calculator_server.py      # MCP server exposing calculator tools
+├── client.py                 # Basic MCP client (no LLM)
+├── llama_mcp_host.py         # LLM + MCP orchestration
+├── requirements.txt
+└── README.md
+
 Software Requirements
 
 Windows 10/11
