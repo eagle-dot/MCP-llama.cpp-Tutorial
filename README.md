@@ -5,6 +5,13 @@ Build a fully local AI agent using:
   Python  
 No OpenAI API key. No cloud inference. Everything runs locally.
 
+Software Requirements
+Windows 10/11
+Python 3.11+
+Conda (recommended)
+NVIDIA GPU (optional but recommended)
+CUDA-enabled llama.cpp build
+
 
 
 
