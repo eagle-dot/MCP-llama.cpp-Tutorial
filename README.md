@@ -11,13 +11,19 @@ What You'll Learn
 This project demonstrates how to:
 
 Run an LLM locally using llama.cpp
+
 Host the model using llama-server.exe
+
 Call the model through the OpenAI-compatible REST API
+
 Build an MCP server that exposes tools
+
 Build an MCP host that lets the LLM invoke those tools
+
 Understand the complete tool-calling workflow
 
 Repository Structure
+
 mcp-llama-demo/
 │
 ├── calculator_server.py      # MCP server exposing calculator tools
