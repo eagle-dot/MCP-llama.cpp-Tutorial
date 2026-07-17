@@ -9,7 +9,11 @@ No OpenAI API key. No cloud inference. Everything runs locally.
 
 
 References
+
 Model Context Protocol: https://modelcontextprotocol.io
+
 MCP Python SDK: https://github.com/modelcontextprotocol/python-sdk
+
 llama.cpp: https://github.com/ggml-org/llama.cpp
+
 Hugging Face Qwen Models: https://huggingface.co/Qwen
